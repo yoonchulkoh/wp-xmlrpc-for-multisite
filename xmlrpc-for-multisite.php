@@ -2,7 +2,7 @@
 /*
 Plugin Name: XML-RPC for Multisite
 Plugin URI: https://github.com/yoonchulkoh/xmlrpc-for-multisite
-Description: プラグインの説明
+Description: XML-RPC for Multisite.
 Version: 1.0
 Author: Yoonchul Koh
 Author URI: http://yoonchulkoh.hatenablog.com/
