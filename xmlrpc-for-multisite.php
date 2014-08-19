@@ -204,6 +204,10 @@ class wp_xmlrpc_server_multi extends wp_xmlrpc_server {
     function wp_restoreRevision($args) {
         return $this->switch_to_blog($args, __FUNCTION__);
     }
+    
+    function mw_newMediaObject($args) {
+        return $this->switch_to_blog($args, __FUNCTION__);
+    }
 }
 
 function wp_xmlrpc_server_class($args) {
